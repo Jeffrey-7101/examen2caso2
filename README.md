@@ -147,4 +147,4 @@ El mensaje original de la aplicacion es reemplazado por el mensaje solicitado co
 > ![Modificacion App](assets/evidencia3.png)
 
 > EVIDENCIA 04: RESULTADO DE LA APLICACION
-> ![Resultado Flask](assets/evidenci4.png)
+> ![Resultado Flask](assets/evidencia4.png)
