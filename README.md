@@ -138,13 +138,13 @@ El mensaje original de la aplicacion es reemplazado por el mensaje solicitado co
 ## Marcadores para Evidencias
 
 > EVIDENCIA 01: IMAGEN ORIGINAL DESCARGADA
-> ![Imagen Original](assets/evidencia1)
+> ![Imagen Original](assets/evidencia1.png)
 
 > EVIDENCIA 02: CODIGO FUENTE EXTRAIDO
-> ![Codigo Fuente](assets/evidencia2)
+> ![Codigo Fuente](assets/evidencia2.png)
 
 > EVIDENCIA 03: MODIFICACION DEL ARCHIVO APP.PY
-> ![Modificacion App](assets/evidencia3)
+> ![Modificacion App](assets/evidencia3.png)
 
 > EVIDENCIA 04: RESULTADO DE LA APLICACION
-> ![Resultado Flask](assets/evidenci4)
+> ![Resultado Flask](assets/evidenci4.png)
