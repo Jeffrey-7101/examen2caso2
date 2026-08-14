@@ -108,13 +108,13 @@ El mensaje original de la aplicacion es reemplazado por el mensaje solicitado co
 2. Etiquetar la imagen:
 
    ```bash
-   docker tag examen2caso2 <usuario-dockerhub>/examen2caso2:latest
+   docker tag examen2caso2 jeffrey7101/examen2caso2:latest
    ```
 
 3. Subir la imagen:
 
    ```bash
-   docker push <usuario-dockerhub>/examen2caso2:latest
+   docker push jeffrey7101/examen2caso2:latest
    ```
 
 ---
@@ -130,7 +130,7 @@ El mensaje original de la aplicacion es reemplazado por el mensaje solicitado co
 - DockerHub:
 
   ```text
-  AGREGAR_URL_DE_LA_IMAGEN
+  https://hub.docker.com/r/jeffrey7101/flask-app
   ```
 
 ---
